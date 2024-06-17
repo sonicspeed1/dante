@@ -1,0 +1,62 @@
+[
+  {
+    "ruc": "asd",
+    "valor": "1234",
+    "gasto": "Vivienda",
+    "id": 1
+  },
+  {
+    "ruc": "123412",
+    "valor": "1234",
+    "gasto": "Alimentación",
+    "id": 2
+  },
+  {
+    "ruc": "123412",
+    "valor": "1234",
+    "gasto": "Educacion",
+    "id": 3
+  },
+  {
+    "ruc": "123412",
+    "valor": "1234",
+    "gasto": "Ninguno",
+    "id": 4
+  },
+  {
+    "ruc": "dfas",
+    "valor": "af",
+    "gasto": "Vivienda",
+    "id": 5
+  },
+  {
+    "ruc": "sda",
+    "valor": "sad",
+    "gasto": "Vestimenta",
+    "id": 6
+  },
+  {
+    "ruc": "sda",
+    "valor": "sad",
+    "gasto": "Educacion",
+    "id": 7
+  },
+  {
+    "ruc": "asd",
+    "valor": "123",
+    "gasto": "Alimentación",
+    "id": 8
+  },
+  {
+    "ruc": "431223523",
+    "valor": "123231.433",
+    "gasto": "Alimentación",
+    "id": 9
+  },
+  {
+    "ruc": "431223523",
+    "valor": "123231.43",
+    "gasto": "Educacion",
+    "id": 10
+  }
+]

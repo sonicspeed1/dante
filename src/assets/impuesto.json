@@ -1,0 +1,36 @@
+[
+  {
+    "cedula": "123",
+    "ingreso": 123213,
+    "vivienda": 123,
+    "educacion": 123,
+    "salud": 123,
+    "vestimenta": 123,
+    "alimentacion": 0,
+    "gastos": 492,
+    "baseimponible": 122721,
+    "excedente": 17141,
+    "fraccionbasica": 105580,
+    "Porcentaje_Excedente": 6342.17,
+    "impuesto_fraccion_basica": 23594,
+    "impuesto_renta": 29936.17,
+    "id": 1
+  },
+  {
+    "cedula": "1727922567",
+    "ingreso": 123123,
+    "vivienda": 1232,
+    "educacion": 0,
+    "salud": 0,
+    "vestimenta": 0,
+    "alimentacion": 0,
+    "gastos": 1232,
+    "baseimponible": 121891,
+    "excedente": 16311,
+    "fraccionbasica": 105580,
+    "Porcentaje_Excedente": 6035.07,
+    "impuesto_fraccion_basica": 23594,
+    "impuesto_renta": 29629.07,
+    "id": 2
+  }
+]

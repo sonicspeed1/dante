@@ -1,0 +1,8 @@
+[
+  { "nombre": "Vivienda", "descripcion": "Descripción de vivienda...", "imagen": "assets/vivienda.jpg" },
+  { "nombre": "Educación", "descripcion": "Descripción de educación...", "imagen": "assets/educacion.jpg" },
+  { "nombre": "Salud", "descripcion": "Descripción de salud...", "imagen": "assets/salud.jpg" },
+  { "nombre": "Vestimenta", "descripcion": "Descripción de vestimenta...", "imagen": "assets/vestimenta.png" },
+  { "nombre": "Alimentación", "descripcion": "Descripción de alimentación...", "imagen": "assets/alimento.jpg" },
+  { "nombre": "Entretenimiento", "descripcion": "Descripción de entretenimiento...", "imagen": "assets/entrenimiento.png" }
+]
